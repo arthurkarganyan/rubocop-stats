@@ -1,0 +1,2 @@
+# rubocop-stats
+Rubocop Statistics
